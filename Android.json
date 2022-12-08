@@ -1,14 +1,137 @@
-{"Version":"1.1","Url":"https://github.com/Juessh/Android-VPN/blob/main/Android.zip","Text":"📢อัพเดท วันที่ 25 ตุลาคม 2565
- 
-🆙รายละเอียดการอัพเดท (ล่าสุด)​
-📌อัพไฟล์ใหม่เพิ่ม
+{
+   "files": [    
 
-▶️รองรับซิม AIS DTAC TRUE
- 
-📳เมื่อเห็นข้อความอัพเดทนี้
-📳กรุณากด ตกลง เพื่ออัพเดท
-📳และรอจนกว่าจะอัพเดทเสร็จ
- 
-🤔ต้องการแจ้งปัญหาต่างๆ
-🤔ต้องการสอบถามรายละเอียด
-🤔กรุณาทักแชท"}
+
+{
+         "name": "SINGAPORE CORE 1",
+         "url": "https://juestore.000webhostapp.com/SG-Core-001.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 01",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-001.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 02",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-002.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 03",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-003.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 04",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-004.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 05",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-005.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 06",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-006.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 07",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-007.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 08",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-008.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 09",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-009.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 10",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-010.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 11",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-011.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 12",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-012.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 13",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-013.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 14",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-014.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 15",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-015.ovpn"
+      },
+{
+         "name": "SINGAPORE 16",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-016.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 17",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-017.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 18",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-018.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 19",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-019.ovpn"
+      },
+
+{
+         "name": "SINGAPORE 20",
+         "url": "https://juestore.000webhostapp.com/SG-Singapore-020.ovpn"
+      },
+{
+         "name": "SINGAPORE SENPAI 1",
+         "url": "https://juestore.000webhostapp.com/SG-Senpai-001.ovpn"
+      },
+
+{
+         "name": "SINGAPORE SENPAI 2",
+         "url": "https://juestore.000webhostapp.com/SG-Senpai-002.ovpn"
+      },
+
+{
+         "name": "SINGAPORE SENPAI 3",
+         "url": "https://juestore.000webhostapp.com/SG-Senpai-003.ovpn"
+      },
+
+{
+         "name": "SINGAPORE SENPAI 4",
+         "url": "https://juestore.000webhostapp.com/SG-Senpai-004.ovpn"
+      }
+
+
+
+   ],
+"message":"8 December 2022\n\n•Version:1\n\n•🟢What New?🟢\n•Add SG-10 ဖိုင်✅\n•Add US-10ဖိုင်✅\n\n📢By : JueHtet📢",
+   "title":"♻️eutvpn.com♻️" ,
+   "version": 1
+}
+
+
+
